@@ -1,3 +1,7 @@
+> ⚠️ **Project Moved**  
+> This project has been moved to a new home: [https://github.com/torrey-xyz/Solana-Geyser-Plugin-for-ClickHouse](https://github.com/torrey-xyz/Solana-Geyser-Plugin-for-ClickHouse).  
+> All future development and maintenance will be handled by **Torrey**.
+
 # Solana Geyser Plugin for ClickHouse
 ### Prerequisites
 - Rust toolchain (latest stable version)
